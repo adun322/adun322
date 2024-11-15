@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **GoLang, Java, React**
 
 - 📫 How to reach me **evgenijvetrokrylov@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
