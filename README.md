@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Evgenij</h1>
-<h3 align="center">A passionate android/frontend developer from Russia</h3>
+<h2 align="center">Android/frontend developer from Russia</h2>
 
 - 🌱 I’m currently learning **GoLang, Java, React**
 
