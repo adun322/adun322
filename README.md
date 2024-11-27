@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, GoLang, React<br>📫 How to reach me evgenijvetrokrylov@gmail.com<br>
+🌱 I’m currently learning Java, React, GoLang<br>📫 How to reach me evgenijvetrokrylov@gmail.com<br>
 
 
 # 💻 Tech Stack:
