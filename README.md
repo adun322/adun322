@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, Java<br>📫 How to reach me evgenijvetrokrylov@gmail.com<br>
+🌱 I’m currently learning Python, Java<br>📫 How to reach me t.me/aeuybr<br>
 
 
 # 💻 Tech Stack:
